@@ -300,3 +300,40 @@ footer {
 .form-section button:hover {
   background-color: #1d4ed8;
 }
+
+
+/* THE ABOUT PAGE CARD */
+
+/* Scoped styling for the About page card */
+.about-card {
+  display: block;
+  width: 50%;
+  height: auto;
+  padding-left: 5rem;
+  margin: 5rem;
+  margin-left: 25rem;
+}
+
+.about-card p {
+  color: rgb(224, 224, 224);
+  font-size: 1.2rem;
+  text-align: center;
+  padding-top: 5vh;
+}
+
+.about-card:before {
+  padding-bottom: 100%; /* Adjust card height ratio (default is 150%) */
+}
+.about-card .card__background {
+  filter: brightness(0.6) contrast(1.1);
+}
+
+/* ABOUT-GOAL SECTION */
+
+.about-goal p{
+  color: rgb(29, 28, 28);
+  font-size: 1.2rem;
+  text-align: center;
+  padding-top: 5vh;
+
+}

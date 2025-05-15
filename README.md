@@ -1,25 +1,27 @@
-# Final Project and Deployment
+# Accredited Life Insurances SA
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+A simple multipage website that helps South Africans find accredited life insurance companies and avoid scams.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## 🔗 Live Website
+[https://yourusername.github.io/life-insurance-website/](https://yourusername.github.io/life-insurance-website/)  
+*(Replace with your actual live URL)*
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## 📁 Files Included
+- `index.html` – Homepage
+- `about.html` – About the mission
+- `contact.html` – Contact form
+- `css/stylesheet.css` – Main styles
+- `images/` – All image assets
 
-## Tasks
+## ✨ Features
+- Highlights trusted insurance companies like MOMENTUM
+- Easy-to-read mission and purpose
+- Mobile-friendly design
+- Contact form included
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+## 👨🏽‍💻 Created By
+Qaqamba Mpumela
 
-Good luck and happy coding! 🚀💻
+## 📄 How to View
+1. Open `index.html` in your browser to view locally.
+2. Or visit the live site using the link above.
